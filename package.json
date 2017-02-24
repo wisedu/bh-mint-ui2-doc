@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "documentation for mint-ui.",
   "private": false,
   "keywords": [],
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mint-ui/docs.git"
+    "url": "git+https://github.com/wisedu/bh-mint-ui2-doc.git"
   },
-  "homepage": "https://github.com/mint-ui/docs#readme",
+  "homepage": "https://github.com/wisedu/bh-mint-ui2-doc#readme",
   "bugs": {
-    "url": "https://github.com/mint-ui/docs/issues"
+    "url": "https://github.com/wisedu/bh-mint-ui2-doc/issues"
   },
-  "author": "elemefe",
+  "author": "necfol",
   "license": "MIT",
   "dependencies": {
     "vue": "^1.0.0",

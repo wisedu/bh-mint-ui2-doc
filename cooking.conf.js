@@ -11,7 +11,7 @@ cooking.set({
     hostname: require('my-local-ip')()
   },
   hash: true,
-  publicPath: '/docs/',
+  publicPath: '/bh-mint-ui2-doc/',
   extractCSS: true,
   postcss: [
     require('postcss-salad')
